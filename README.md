@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - ➡️ Em transição de carreira da área da educação para tecnologia.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera.
+- 🎓 Em breve começarei o curso de Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera.
 - 💼 Procurando um trabalho na área de Desenvolvimento Web.
 - 🌱 Aprendendo mais sobre React e React Native.
 
