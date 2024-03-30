@@ -25,13 +25,13 @@
 
 ![Node](https://img.shields.io/badge/Node%20js-252525?style=for-the-badge&logo=nodedotjs&logoColor=green)
 
-![Vite](https://img.shields.io/badge/Vite-252525?style=for-the-badge&logo=vite&logoColor=FFD62E)
-
-![Yarn](https://img.shields.io/badge/Yarn-252525?style=for-the-badge&logo=yarn&logoColor=white)
-
 ![Figma](https://img.shields.io/badge/Figma-252525?style=for-the-badge&logo=figma&logoColor=red)
 
 ## Interesses
+
+![Vite](https://img.shields.io/badge/Vite-252525?style=for-the-badge&logo=vite&logoColor=FFD62E)
+
+![Yarn](https://img.shields.io/badge/Yarn-252525?style=for-the-badge&logo=yarn&logoColor=white)
 
 ![React_Native](https://img.shields.io/badge/React_Native-252525?style=for-the-badge&logo=react&logoColor=61DAFB)
 
